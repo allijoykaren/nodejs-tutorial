@@ -97,7 +97,3 @@ class Mage extends Player {
 const fireStaff = new MagicWeapon("Fire Staff", 15, "Fire");
 const mage = new Mage(fireStaff);
 console.log(mage.attack()); // Output: Casting Fire spell with Fire Staff!
-
-// Exporting classes
-export default { Person, Weapon, MagicWeapon, Player, Mage }; 
-
