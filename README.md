@@ -63,7 +63,7 @@ That's it! You have successfully installed Node.js on Windows and Mac OS. You ca
 An interpreted programming language is a type of programming language where the source code is executed line by line, without the need for compilation. In an interpreted language, the code is directly executed by an interpreter, which translates and executes each line of code in real-time. This allows for faster development and easier debugging, as changes to the code can be immediately tested without the need for a separate compilation step.
 ```
 
-### [2] What is a scalable and high-performance web application?
+#### [2] What is a scalable and high-performance web application?
 ```
 A scalable and high-performance web application is one that can handle a large number of concurrent users and process a high volume of requests efficiently. Scalability refers to the ability of an application to handle increased workload by adding more resources, such as servers or computing power, without sacrificing performance. High performance, on the other hand, refers to the ability of an application to respond quickly and efficiently to user requests, minimizing latency and maximizing throughput.
 
@@ -84,17 +84,17 @@ To achieve scalability and high performance, web applications often employ vario
 By implementing these techniques and best practices, developers can build web applications that can handle a growing user base, deliver fast response times, and provide a smooth user experience even under heavy load.
 ```
 
-### [3] What are APIs?
+#### [3] What are APIs?
 ```
 APIs stands for Application Programming Interfaces. APIs are sets of rules and protocols that allow different software applications to communicate with each other. They define the methods and data formats that applications can use to interact and exchange information. APIs enable developers to access the functionality of other software systems, services, or platforms, without having to understand the underlying implementation details. They provide a standardized way for applications to request and receive data or perform specific actions, such as retrieving data from a database, sending data to a remote server, or integrating with third-party services. APIs are widely used in software development to enable interoperability and integration between different systems, and they play a crucial role in building modern web and mobile applications.
 ```
 
-### [4] What is microservice? 
+#### [4] What is microservice? 
 ```
 A microservice is a software architectural style that structures an application as a collection of small, loosely coupled services. Each microservice is responsible for a specific business capability and can be developed, deployed, and scaled independently. Microservices communicate with each other through well-defined APIs, typically using lightweight protocols such as HTTP or messaging systems. This approach allows for greater flexibility, scalability, and resilience compared to traditional monolithic architectures. Microservices can be developed using different programming languages, frameworks, and technologies, making it easier to adopt new technologies and evolve the system over time. They also enable teams to work independently on different microservices, promoting faster development and deployment cycles. However, managing the complexity of a distributed system and ensuring proper coordination between microservices can be challenging and requires careful design and implementation.
 ```
 
-### [5] What is the alternative to microservice architecture?
+#### [5] What is the alternative to microservice architecture?
 ```
 The alternative to microservice architecture is monolithic architecture. In a monolithic architecture, the entire application is built as a single, tightly-coupled unit. All the components and functionalities of the application are bundled together, making it difficult to scale or modify individual parts without affecting the entire system. Monolithic architectures are typically easier to develop and deploy initially, but they can become more challenging to maintain and scale as the application grows in size and complexity.
 ```
