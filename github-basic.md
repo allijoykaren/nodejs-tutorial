@@ -72,6 +72,7 @@ This command will display the content of the public key in the terminal. You can
 
 To watch a video tutorial on how to add an SSH key to your GitHub account, you can refer to the following video: 
 ```
+https://github.com/zelcakok/nodejs-tutorial/assets/16818584/39da803a-9ab1-41f6-b7e9-e91d03280228
 
 ### Github commands that are often used
 #### Clone a repository to the local environment
