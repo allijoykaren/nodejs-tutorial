@@ -35,7 +35,7 @@ These are just a few examples of the applications that can be built on top of No
 ```
 To install Node.js on Windows, follow these steps:
 
-1. Visit the official Node.js website at [nodejs.org](https://nodejs.org).
+1. Visit the official Node.js website at https://nodejs.org.
 2. Click on the "Downloads" button to access the downloads page.
 3. On the downloads page, you will see two versions available for download: LTS (Long-Term Support) and Current. It is recommended to choose the LTS version for stability and compatibility.
 4. Select the appropriate installer for your Windows operating system (32-bit or 64-bit).
@@ -45,7 +45,7 @@ To install Node.js on Windows, follow these steps:
 
 To install Node.js on Mac OS, follow these steps:
 
-1. Visit the official Node.js website at [nodejs.org](https://nodejs.org).
+1. Visit the official Node.js website at https://nodejs.org.
 2. Click on the "Downloads" button to access the downloads page.
 3. On the downloads page, you will see two versions available for download: LTS (Long-Term Support) and Current. It is recommended to choose the LTS version for stability and compatibility.
 4. Select the appropriate installer for your Mac OS.
