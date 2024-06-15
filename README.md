@@ -85,7 +85,9 @@ By implementing these techniques and best practices, developers can build web ap
 ```
 
 ### [3] What are APIs?
+```
 APIs stands for Application Programming Interfaces. APIs are sets of rules and protocols that allow different software applications to communicate with each other. They define the methods and data formats that applications can use to interact and exchange information. APIs enable developers to access the functionality of other software systems, services, or platforms, without having to understand the underlying implementation details. They provide a standardized way for applications to request and receive data or perform specific actions, such as retrieving data from a database, sending data to a remote server, or integrating with third-party services. APIs are widely used in software development to enable interoperability and integration between different systems, and they play a crucial role in building modern web and mobile applications.
+```
 
 ### [4] What is microservice? 
 ```
