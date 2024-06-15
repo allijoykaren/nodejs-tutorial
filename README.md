@@ -56,7 +56,7 @@ To install Node.js on Mac OS, follow these steps:
 That's it! You have successfully installed Node.js on Windows and Mac OS. You can now start building your Node.js applications.
 ```
 
-### How to start a new Node.js project
+### How to start a new Node.js project?
 ```
 ## How to start a new Node.js project
 To start a new Node.js project, you can use the following command in your terminal:
@@ -75,6 +75,15 @@ Remember to run `npm install` to install any dependencies listed in your `packag
 
 That's it! You have successfully started a new Node.js project.
 ```
+
+### How to run the code using Node.js?
+To run the code using Node.js, you can use the following command in your terminal:
+
+> node your_file_name.js
+
+Replace `your_file_name.js` with the name of your JavaScript file that contains the code you want to run. Make sure you are in the correct directory where the file is located.
+After executing the command, Node.js will interpret and execute the code in the specified file, and you will see the output or any error messages in the terminal.
+That's it! You have successfully run the code using Node.js.
 
 ## References
 
