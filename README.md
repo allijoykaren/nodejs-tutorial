@@ -56,6 +56,26 @@ To install Node.js on Mac OS, follow these steps:
 That's it! You have successfully installed Node.js on Windows and Mac OS. You can now start building your Node.js applications.
 ```
 
+### How to start a new Node.js project
+```
+## How to start a new Node.js project
+To start a new Node.js project, you can use the following command in your terminal:
+
+> npm init
+
+This command initializes a new Node.js project and creates a `package.json` file in your project directory. The `package.json` file is used to manage your project's dependencies and configuration.
+
+After running `npm init`, you will be prompted to provide information about your project, such as the project name, version, description, entry point, and more. You can either fill in the information manually or press enter to accept the default values.
+
+Once you have completed the initialization process, you can start installing dependencies and writing your Node.js code.
+
+Remember to run `npm install` to install any dependencies listed in your `package.json` file.
+
+> npm install moment # e.g. Install the moment library
+
+That's it! You have successfully started a new Node.js project.
+```
+
 ## References
 
 #### [1] What is interpreted programming language?
